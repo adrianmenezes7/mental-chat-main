@@ -19,5 +19,3 @@ docker run --gpus all -p 5555:5555  -itd --name {container_name} {image_name}
 - Plutchik Emotion API available at `http://{server_ip}:5000/predict_sentiment` and `http://{server_ip}:5000/predict_sentiment_scores`
 - The API docs are available at `http://{server_ip}:5555/docs`
 =======
-# mental-chat-main
->>>>>>> 7e0750d482a0c0ca2c23bbd9f0382aa9d991e451
